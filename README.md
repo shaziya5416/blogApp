@@ -3,7 +3,6 @@
 
 A blog writing application with CRUD features and Token based authentication
 User Authentication using JWT.
-The features I tried to include are:
 
 
 ## Installation
